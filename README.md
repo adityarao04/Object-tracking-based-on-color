@@ -1,2 +1,2 @@
-# Object-tracking-based-on-color
+# Object tracking based on color
 object tracking based on color using OpenCV
